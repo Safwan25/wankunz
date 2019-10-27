@@ -1,2 +1,6 @@
-# wankunz
-Im not Robot
+
+
+git clone 
+$cd makan
+$ls
+$php makan.php
